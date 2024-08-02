@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm PRINCE KUMAR YADAV</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.lpDmbJAfxH3MXhLYWCxS8QHaHa?pid=ImgDet&w=179&h=179&c=7&dpr=1.3"
 
 - 🌱 I’m currently learning **Backend (Next.js)**
 
